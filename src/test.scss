@@ -1,0 +1,5 @@
+$background-color: gray;
+
+body{
+    background: linear-gradient($background-color, lighten($background-color, 20%));
+}
