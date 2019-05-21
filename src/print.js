@@ -1,3 +1,3 @@
 export default function printMe() {
-    consoele.log('I get called from print.js!');
+    console.log('Manzano is here print.js...');
   }
